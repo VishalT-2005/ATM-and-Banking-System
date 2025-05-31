@@ -1,7 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223100060
+# Name:T.Vishal
 
 
 # AIM:
